@@ -9,9 +9,9 @@ armazena o caminho de cada arquivo.
 
 ## Informações acadêmicas
 
-- Autor: [Gustavo Faria de Paula Reis]
-- Curso: [Ciência da Computação]
-- Disciplina: [Desenvolvimento para Dispositivos Móveis]
+- Autor: Gustavo Faria de Paula Reis
+- Curso: Ciência da Computação
+- Disciplina: Desenvolvimento para Dispositivos Móveis
 
 ## Funcionalidades
 

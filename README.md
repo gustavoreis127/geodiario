@@ -9,10 +9,9 @@ armazena o caminho de cada arquivo.
 
 ## Informações acadêmicas
 
-- Autor: [SEU NOME]
-- Curso: [SEU CURSO]
-- Disciplina: [NOME DA DISCIPLINA]
-- Professor(a): [NOME DO PROFESSOR OU PROFESSORA]
+- Autor: [Gustavo Faria de Paula Reis]
+- Curso: [Ciência da Computação]
+- Disciplina: [Desenvolvimento para Dispositivos Móveis]
 
 ## Funcionalidades
 
